@@ -3,7 +3,7 @@
 - Last updated on February 6, 2025 (Hello World or some shit idk)
 
 ## Bottom Line Up Front:
-- This is a curated selection of technical notes from my Obsidian vault
+- This is (going to be) a curated selection of technical notes from my Obsidian vault
 - As it currently stands, this repository will be a smattering of random technical guides and commands I've found useful
 
 ## Etc etc etc...
