@@ -5,6 +5,8 @@
 ## Bottom Line Up Front:
 - This is (going to be) a curated selection of technical notes from my Obsidian vault
 - As it currently stands, this repository will be a smattering of random technical guides and commands I've found useful
+- The notes are mostly (currently, at least) formatted in Obsidian and straight up copied into GitHub
+  - That being said, the notes are prettier in Obsidian
 
 ## Etc etc etc...
 - These guides are going to be pretty topical and pragmatic - I wouldn't expect to see anything earth shattering in these guides if you've been around the block
