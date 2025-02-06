@@ -28,7 +28,9 @@ Operating System ISO (disc image of an OS)
 	- *Page 2*: Installer disc image file: Browse to .ISO file and select the file
 	- *Page 3*: Enter the username and password credentials you would like to use
 	- *Page 4*: Name your virtual machine and choose the storage location for your VM files
-	- *Page 5*: Allocate disk space for your VM. I recommend adding +20GB to the recommended size. Leave the "Split virtual disk..." setting as default
+	- *Page 5*: Allocate disk space for your VM
+  		- I recommend adding +20GB to the recommended size
+     		- Leave the "Split virtual disk..." setting as default
 	- *Page 6*: Do not customize the hardware yet; I prefer to do this after the OS has finished installing. Click "Finish"
 
 - 4. **Power on the Virtual Machine**
