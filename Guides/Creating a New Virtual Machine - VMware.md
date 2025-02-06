@@ -18,10 +18,10 @@ Operating System ISO (disc image of an OS)
 ##### Step-By-Step Guide:
 - 1. **Open VMware Workstation Pro**
 	- Double click on the icon to open the program	![[VMwareWSProIcon.png]]
-- 2. **Start the "New Virtual Machine" wizard
+- 2. **Start the "New Virtual Machine" wizard**
 	- On the top toolbar, click on "File"
 	- Click on "New Virtual Machine"
-- 3. **Configure the basic settings using the wizard
+- 3. **Configure the basic settings using the wizard**
 	- *Page 1*: Typical
 	- *Page 2*: Installer disc image file: Browse to .ISO file and select the file
 	- *Page 3*: Enter the username and password credentials you would like to use
@@ -43,4 +43,3 @@ Operating System ISO (disc image of an OS)
 	- 4. Click on "Processors" in the left-side pane
 		- Adjust the number of processors and cores per processor
 		- Aim for a minimum of 4 processors/1 core per processor
-	- 
