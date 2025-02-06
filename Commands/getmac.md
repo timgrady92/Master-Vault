@@ -20,6 +20,10 @@
 
 - Identify the MAC address on each connected network adapter
 
+**Personal Note:**
+
+- This is particularly helpful when you need to reference mac addresses while adding machines to a DHCP server
+
 **Examples:**
 
 ```
