@@ -2,7 +2,7 @@
 
 2025-02-06 14:50
 
-**Tags:** [[Red Hat Enterprise Linux]] [[Networking (IT)]]
+**Tags:** [[Linux Commands]] [[Networking (IT)]]
 
 ----
 # nmtui
